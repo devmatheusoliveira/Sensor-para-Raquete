@@ -78,8 +78,8 @@ Apesar das condições dispostas e dos desafios encontrados, o resultado do test
 
 ---
 
-[https://user-content.gitlab-static.net/fcd50c6781ae3833e6e32a90ba96b6eb04812c01/687474703a2f2f696d672e796f75747562652e636f6d2f76692f542d3661464e6d2d3065672f302e6a7067](https://user-content.gitlab-static.net/fcd50c6781ae3833e6e32a90ba96b6eb04812c01/687474703a2f2f696d672e796f75747562652e636f6d2f76692f542d3661464e6d2d3065672f302e6a7067)
+[![](http://img.youtube.com/vi/T-6aFNm-0eg/0.jpg)](http://www.youtube.com/watch?v=T-6aFNm-0eg "")
 
-[https://user-content.gitlab-static.net/552c028cb68104be134047c3cba8b59ef7c41b53/687474703a2f2f696d672e796f75747562652e636f6d2f76692f67626564635966734b47452f302e6a7067](https://user-content.gitlab-static.net/552c028cb68104be134047c3cba8b59ef7c41b53/687474703a2f2f696d672e796f75747562652e636f6d2f76692f67626564635966734b47452f302e6a7067)
+[![](http://img.youtube.com/vi/vXC6BFr3yhE/0.jpg)](http://www.youtube.com/watch?v=vXC6BFr3yhE "")
 
-[https://user-content.gitlab-static.net/d937a1879f3dd648d7787b8471fb5269789c4de4/687474703a2f2f696d672e796f75747562652e636f6d2f76692f76584336424672337968452f302e6a7067](https://user-content.gitlab-static.net/d937a1879f3dd648d7787b8471fb5269789c4de4/687474703a2f2f696d672e796f75747562652e636f6d2f76692f76584336424672337968452f302e6a7067)
+[![](http://img.youtube.com/vi/gbedcYfsKGE/0.jpg)](http://www.youtube.com/watch?v=gbedcYfsKGE "")
