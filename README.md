@@ -30,7 +30,7 @@ Um dos grandes problemas foi a falta de precisão da raquete, uma vez que o Kine
 
 # Diagrama Elétrico
 
-![Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled.png](Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled.png)
+![img/1.png](img/1.png)
 
 # Implementação Final do Projeto
 
@@ -46,15 +46,15 @@ Para fazer o teste, foi utilizado a placa ESP8266 e o sensor MPU6050. Já para a
 O ESP8266 ESP12F é um equipamento de desenvolvimento open source que auxilia na prototipagem do produto voltado a IOT, necessitando de apenas de um script escrito por poucas linhas em LUA, ou mesmo programando na IDE Arduino.
 O módulo possui internamente um poderoso processador, suficiente para a integração com sensores e outras aplicações específicas usandos seus GPIOs, necessitando de pouco desenvolvimento. Por se tratar de um chip relativamente completo, ele requer pouquíssimos componentes na placa, o que o torna um dispositivo de tamanho reduzido, permitindo desta forma uso de pouco espaço em seu projeto, (você pode executar seus programas diretamente no módulo, dispensando microcontrolador externo). A comunicação do Módulo Wireless ESP-12F com o Arduino ou Raspberry Pi pode ser feita via serial através dos pinos RX e TX, podendo ser configurada através de comandos AT.
 
-![Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled%201.png](Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled%201.png)
+![img/2.png](img/2.png)
 
 O sensor MPU-6050 contém em um único chip um acelerômetro e um giroscópio tipo MEMS. São 3 eixos para o acelerômetro e 3 eixos para o giroscópio, sendo ao todo 6 graus de liberdade (6DOF). Além disso esta placa tem um sensor de temperatura embutido no CI MPU6050, permitindo medições entre -40 e +85 ºC. Possui alta precisão devido ao conversor analógico digital de 16-bits para cada canal. Portanto o sensor captura os canais X, Y e Z ao mesmo tempo.
 
-![Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled%202.png](Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled%202.png)
+![img/3.png](img/3.png)
 
 O Arduino é uma plataforma de prototipagem eletrônica de código aberto, na qual o usuário pode personalizar o hardware e criar aplicativos específicos para rodar em um circuito eletrônico. Em outras palavras, podemos conectar dispositivos, sensores, tudo através de uma conexão USB, que podemos apenas conectar ao computador, instalar um driver e desenvolver programas. Há também outro modo de alimentação, podendo ser alimentado com uma bateria pequena, de 9V. A plataforma é toda configurada através de pinos, que se dividem em pinos analógicos, digitais, alimentação, reset e ground.
 
-![Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled%203.png](Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled%203.png)
+![img/4.png](img/4.png)
 
 A linguagem do arduino é uma linguagem própria, que é uma linguagem bem similar ao ANSI C. O controle deste microcontrolador é feito através da programação. Além disso, o mesmo possui a característica de ser uma máquina de estado, que armazena o último dado que foi ordenado, caso seja retirada a sua alimentação. Em termos da teoria de circuitos digitais, podemos dizer que os registradores que compõem os CI’s do arduino, são registradores não voláteis.
 
@@ -66,13 +66,13 @@ Apesar das condições dispostas e dos desafios encontrados, o resultado do test
 
 ---
 
-![img/1.png](img/1.png)
+![img/5.png](img/5.png)
 
-![Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled%204.png](Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled%204.png)
+![img/6.png](img/6.png)
 
-![Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled%205.png](Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled%205.png)
+![img/7.png](img/7.png)
 
-![Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled%206.png](Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled%206.png)
+![img/8.png](img/8.png)
 
 ## Testes do projeto - videos:
 
