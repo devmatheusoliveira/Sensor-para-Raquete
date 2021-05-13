@@ -66,7 +66,7 @@ Apesar das condições dispostas e dos desafios encontrados, o resultado do test
 
 ---
 
-![Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled_4.png](Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled_4.png)
+![img/1.png](img/1.png)
 
 ![Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled%204.png](Sensor%20raquete%20te%CC%82nis%20de%20mesa%20d2bb86504a0a4feeabd54f776b1f60ba/Untitled%204.png)
 
